@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/UndineSuMenulio/why.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Honestly, I understand nothing and I don't even want to. 
+### Maybe
+Somehow I will live over this months but honestly I don't know how because I've seen her recently and I'm already missing her so badly. I can't even eat. What will I do then, when a few months pass away? 
 
 ```markdown
 Syntax highlighted code block
